@@ -3,6 +3,7 @@ package Practices;
 public class LogicalOperator {
 public static void main(String[]args) {
 	
+	// Logical AND Operator 
 	int a = 5;
 	int b = 6;
 	int c  = a&b;
