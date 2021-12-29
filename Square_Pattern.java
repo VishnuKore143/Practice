@@ -1,5 +1,5 @@
 
-package CodingNinja;
+
 import java.util.Scanner;
 public class Square_Pattern {
 	public static void main(String[]args) {
