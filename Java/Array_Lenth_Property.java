@@ -2,7 +2,7 @@ package SCA;
 
 import java.util.Scanner;
 
-public class Lenth_Property {
+public class Array_Lenth_Property {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -19,8 +19,8 @@ public class Lenth_Property {
         System.out.println("================================================");
         System.out.println("================================================");
         System.out.println();
+        
         System.out.println("This is Reverse Array Printing");
-
         //Reverse Array printing
         System.out.println("Array size is :"+arr.length);
         for (int i=arr.length -1; i>=0; i--){
