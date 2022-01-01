@@ -1,6 +1,5 @@
 package SCA;
 
-import javax.print.attribute.EnumSyntax;
 import java.util.Scanner;
 
 public class ForEachLoop {
