@@ -1,6 +1,4 @@
 
-package SCA_Leactures.Area_And_Circle;
-
 import java.util.Scanner;
 
 class UseCircle {
