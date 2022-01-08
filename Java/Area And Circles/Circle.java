@@ -1,6 +1,4 @@
 
-package SCA_Leactures.Area_And_Circle;
-
 class Circle {
  private int radius;
     public void setRadius(int radius){
